@@ -1,0 +1,9 @@
+* ble
+
+A Bluetooth Low Energy library for SBCL on Linux.
+
+|---------+---------------------------------------------------------------------|
+| source  | file:https://github.com/lispnik/ble/archive/refs/tags/v0.3.0.tar.gz |
+| version | 0.0.0                                                               |
+| systems | ble ble/core                                                        |
+|---------+---------------------------------------------------------------------|
